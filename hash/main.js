@@ -1,5 +1,5 @@
 /**
-  *	HashTable的实现(开链法)
+  * HashTable的实现(开链法)
   */
 function HashTable() {
 	this.table = new Array(137);

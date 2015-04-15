@@ -1,5 +1,5 @@
 /**
-  *	集合的实现
+  * 集合的实现
   */
 function Set() {
 	this.dataStore = [];
